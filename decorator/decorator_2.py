@@ -12,6 +12,5 @@ def smart_divide(func):
 def divide(a, b):
     return a/b
 
-
 result = divide(4, 2)
 print(result)
