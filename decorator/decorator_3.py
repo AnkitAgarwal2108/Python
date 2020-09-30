@@ -14,8 +14,8 @@ def percent(func):
     return inner
 
 
-@star
 @percent
+@star
 def printer(msg):
     print(msg)
 
